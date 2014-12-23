@@ -1,0 +1,15 @@
+{
+	"tablePrefix": "wp_",
+	"dbHost": "localhost",
+	"dbName": "scotchbox",
+	"dbUser": "root",
+	"dbPass": "root",
+	"git": false,
+	"customDirs": false,
+	"installTheme": true,
+	"themeDir": "Simple-Starter-Theme",
+	"themeType": "git",
+	"themeUser": "craigwfox",
+	"themeRepo": "Simple-Starter-Theme",
+	"themeBranch": "master"
+}
